@@ -5,6 +5,7 @@ ruby '2.7.2'
 gem 'coffee-rails'
 gem 'jquery-rails'
 gem 'devise'
+gem 'bootstrap-sass'
 # Bundle edge Rails instead: gem 'rails', github: 'rails/rails'
 gem 'rails', '~> 6.0.3', '>= 6.0.3.4'
 # Use sqlite3 as the database for Active Record
